@@ -1,0 +1,6 @@
+# Devops_Continous_Integration
+
+#!/bin/bash
+echo "Script"
+uptime
+pwd
