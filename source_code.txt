@@ -3,6 +3,6 @@
 #!/bin/bash
 echo "Script is now here:::::  123fdddddd qqq"
 echo "ithub-webhook/"
-echo "First Demo1"
+echo "First"
 uptime
 pwd
